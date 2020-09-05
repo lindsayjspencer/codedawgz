@@ -1,0 +1,7 @@
+.nav-bar {
+  border-bottom: 1px solid #eaeaea; }
+  .nav-bar .nav-container {
+    width: 900px; }
+    .nav-bar .nav-container .nav-title {
+      font-family: 'Damion', cursive;
+      font-size: 20px; }
